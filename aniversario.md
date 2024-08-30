@@ -1,4 +1,4 @@
-Faça a lista de convidados 
-Escolha o Local 
-Mande os convites 
-Encomende o Bolo 
+Faça a lista de convidados  - requisito 
+Escolha o Local  - desing
+Mande convite para os convites  - requisito
+Encomende o Bolo  - requisito 
